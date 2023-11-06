@@ -1454,8 +1454,8 @@ for Exp_no in range(0, len(Setting_df) ): # len(Setting_df)
 
         
         Setting_df.to_csv(File_name, index = False)####make df to csv
-        if random_maintenance == 0:
-            break
+        # if random_maintenance == 0:
+        #     break
         # print ("energy", e)
         #_______________________________Plots
 
