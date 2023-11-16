@@ -39,7 +39,7 @@ For defining the number of experiments you want to create go to the line no. 87 
 3. For conducting a single experiment, set the "single_exp" parameter to 1 on line 153 of MTC.py. For multiple experiments, adjust this value to 0.
 4. Repeat the steps outlined in instructions 1-3 for executing baseline scripts RMA.py, RM.py, and MINLP.py.
 5. To visualize the State of Charge and other metrics graphs for an individual experiment, ensure the input CSV contains only one data row and that the "single_exp" parameter is set to 1.
-6. Within the repository, two sample input CSV files are provided, named "1_exp.csv" and "multiple_exp.csv", to facilitate the setup of initial experiments for singular and multiple runs, respectively.
+6. Within the repository, two sample input CSV files are provided, named "1_exp.csv" and "multiple_exp.csv", to facilitate the setup of initial experiments for singular and multiple runs, respectively. Note that all the variable named with "TCM" in the code refer to the MTC in the paper.
 
 **Citation**
 
