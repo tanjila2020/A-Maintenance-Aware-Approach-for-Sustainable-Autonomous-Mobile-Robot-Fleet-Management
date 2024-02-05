@@ -43,18 +43,13 @@ For defining the number of experiments you want to create go to the line no. 87 
 
 **Citation**
 
-@INPROCEEDINGS {0000,
-author = {S.T. Atik, A.S. Chavan, D. Grosu and M. Brocanelli},
-booktitle = {},
-title = {A Maintenance-Aware Approach for Sustainable Autonomous Mobile Robot Fleet Management},
-year = {2023},
-volume = {},
-issn = {},
-pages = {},
-keywords = {preventive maintenance, autonomous mobile robots, battery degradation, task and charge scheduling},
-doi = {},
-url = {},
-publisher = {IEEE},
-address = {},
-month = {}
-}
+@ARTICLE{10323097,
+  author={Atik, Syeda Tanjila and Chavan, Akshar Shravan and Grosu, Daniel and Brocanelli, Marco},
+  journal={IEEE Transactions on Mobile Computing}, 
+  title={A Maintenance-Aware Approach for Sustainable Autonomous Mobile Robot Fleet Management}, 
+  year={2023},
+  volume={},
+  number={},
+  pages={1-14},
+  keywords={Task analysis;Batteries;Degradation;Schedules;Navigation;Job shop scheduling;Resource management;Autonomous mobile robots;battery degradation;preventive maintenance;task and charge scheduling},
+  doi={10.1109/TMC.2023.3334589}}
